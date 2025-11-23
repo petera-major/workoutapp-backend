@@ -1,18 +1,15 @@
 .env
-node_modules/
-
 .env.local
 .env.development
 .env.production
+
+node_modules/
 
 logs/
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-dist/
-coverage/
 
 .DS_Store
 
